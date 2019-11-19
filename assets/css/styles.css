@@ -1,0 +1,19 @@
+body{
+    background-image: url("../images/beanstalk.png") !important;
+}
+
+#mainContent{
+    background-color: #ffffff;
+    border: 2px solid #dddddd;
+    line-height: 1.5;
+    margin-bottom: 60px;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px; /* Set the fixed height of the footer here */
+    line-height: 60px; /* Vertically center the text there */
+    text-align: center;
+  }
+  .box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .25); }
