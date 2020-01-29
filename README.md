@@ -1,4 +1,4 @@
-# homework_2
+# Responsive Portfolio Site
 Responsive Personal Portfolio Page - Bootcamp Homework 2
 
 ## Description 
